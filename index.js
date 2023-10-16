@@ -15,3 +15,5 @@ export function calculateLetter(DNI, array) {
 }
 
 console.log(calculateLetter(myDni, arrayLetra));
+
+console.log("prueba_1");
